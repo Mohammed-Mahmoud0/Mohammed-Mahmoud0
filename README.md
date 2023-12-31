@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-
 # A passionate Software Engineer from Egypt
 </div>
 
