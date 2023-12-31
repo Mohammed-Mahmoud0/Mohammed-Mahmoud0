@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Mahmoud
 =======================================================================================================================================
 
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+A passionate Software Engineer from Egypt
 -----------------------------------------
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 * ✉️  You can contact me at [mf.mohamedfawzy0@gmail.com](mailto:mf.mohamedfawzy0@gmail.com)
 * 🧠  I'm learning ML, NN & DL, Mobile Development (Flutter, Dart)
