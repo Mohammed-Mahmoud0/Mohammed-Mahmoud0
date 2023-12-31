@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />
-  <h1>My name is Mohamed Mahmoud</h1>
-</div>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Mohamed Mahmoud</h1>
+=======================================================================================================================================
 
-<hr>
-
-<h2>A passionate Software Engineer from Egypt</h2>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
+-----------------------------------------
 
 * ✉️  You can contact me at [mf.mohamedfawzy0@gmail.com](mailto:mf.mohamedfawzy0@gmail.com)
 * 🧠  I'm learning ML, NN & DL, Mobile Development (Flutter, Dart)
@@ -27,8 +24,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mohammed-Mahmoud0"><img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Mohammed-Mahmoud0's GitHub stats" /></a>
+<a href="http://www.github.com/Mohammed-Mahmoud0"><img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Mohammed-Mahmoud0's GitHub stats" /></a>
 
-<a href="http://www.github.com/Mohammed-Mahmoud0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoud0&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mohammed-Mahmoud0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoud0&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Mohammed-Mahmoud0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mohammed-Mahmoud0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
