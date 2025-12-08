@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"/>
 
 - 🌱 I’m currently learning **ML, NN & DL, Full Stack Development (Python, React)**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Fullstack Development, Mobile Development**
+- 💬 Ask me about **Python, Machine & Deep Learning, Fullstack Development, Mobile Development**
 - 📫 How to reach me **mf.mohamedfawzy0@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Mahmoud0&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Mahmoud0" /> </p>
@@ -50,10 +50,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<!-- <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&layout=compact&theme=dark" alt=Mohammed-Mahmoud0 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&locale=en&theme=dark" alt="Mohammed-Mahmoud0" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&locale=en&theme=dark" alt="Mohammed-Mahmoud0" /></p> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
