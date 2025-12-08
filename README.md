@@ -6,8 +6,8 @@
 
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"/>
 
-- 🌱 I’m currently learning **ML, NN & DL, Mobile Development (Dart, Flutter)**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Mobile Development**
+- 🌱 I’m currently learning **ML, NN & DL, Full Stack Development (Python, React)**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Fullstack Development, Mobile Development**
 - 📫 How to reach me **mf.mohamedfawzy0@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Mahmoud0&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Mahmoud0" /> </p>
