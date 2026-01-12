@@ -6,19 +6,19 @@
 
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"/>
 
-- 🌱 I'm currently learning **ML, NN & DL, Full Stack Development (Python, React)**
+- 🌱 I’m currently learning **ML, NN & DL, Full Stack Development (Python, React)**
 - 💬 Ask me about **Python, Machine & Deep Learning, Fullstack Development, Mobile Development**
-- 📫 How to reach me **mf.mohamedfawzy0@gmail. com**
+- 📫 How to reach me **mf.mohamedfawzy0@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Mahmoud0&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Mahmoud0" /> </p>
 
 <div> 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.github.com/Mohammed-Mahmoud0" target="blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme:  light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://linkedin.com/in/mohamed-mahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mahmoud0" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedmahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedmahmoud0" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100014857096148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook. svg" alt="profile.php? id=100014857096148" height="30" width="40" /></a>
+<a href="https://www.github.com/Mohammed-Mahmoud0" target="blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://linkedin.com/in/mohamed-mahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mohamed-mahmoud0" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedmahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="mohamedmahmoud0" height="30" width="40" /></a><a href="https://codeforces.com/profile/m0hammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="m0hammed" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100014857096148" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="profile.php?id=100014857096148" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,28 +44,24 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original. svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon. svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon. svg" alt="Tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&layout=compact&theme=dark" alt=Mohammed-Mahmoud0 />
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&locale=en&theme=dark" alt="Mohammed-Mahmoud0" /></p> -->
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=Mohammed-Mahmoud0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
+<a href="https://github.com/Mohammed-Mahmoud0">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/? user=Mohammed-Mahmoud0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">📈 Contribution Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoud0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoud0&theme=github-compact"/>
